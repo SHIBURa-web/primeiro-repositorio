@@ -52,3 +52,5 @@ O usuário interage com o front end clicando no botão, o front end envia os dad
 Existem dois tipos de bancos de dados: relacionais ( mySQL ) e não relacionais ( REDIS ).
 
 Os Bancos Relacionais usam a linguagem SQL - 'siquel' - Structured Query Language  - Linguagem Estruturada de Consultas
+
+67
