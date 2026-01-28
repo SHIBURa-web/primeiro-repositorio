@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Task Manager IA</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>🧠 Tarefas IA</h1>
+
+    <div class="card">
+      <input id="titulo" placeholder="Título da tarefa">
+      <textarea id="descricao" placeholder="Descrição"></textarea>
+
+      <div class="actions">
+        <button onclick="gerarDescricao()">✨ IA</button>
+        <button onclick="criarTarefa()">➕ Criar</button>
+      </div>
+    </div>
+
+    <ul id="lista"></ul>
+  </div>
+
+  <script src="js/scripts.js"></script>
+</body>
+</html>
