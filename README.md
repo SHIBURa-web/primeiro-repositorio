@@ -53,4 +53,4 @@ Existem dois tipos de bancos de dados: relacionais ( mySQL ) e não relacionais 
 
 Os Bancos Relacionais usam a linguagem SQL - 'siquel' - Structured Query Language  - Linguagem Estruturada de Consultas
 
-67
+67 type shit
