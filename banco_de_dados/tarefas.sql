@@ -44,3 +44,8 @@ DELETE FROM tarefas
 
 # Limpar tabelas
 TRUNCATE tarefas;
+
+ git add .        
+ git commit -m "alteração no texto "
+[
+git push
